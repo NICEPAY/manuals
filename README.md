@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # manuals
 
 나이스페이 메뉴얼입니다.
@@ -10,3 +11,8 @@ Lite
 Mobile
 
 Billing
+=======
+# manuals 
+
+
+>>>>>>> e3fa76448d0fc3c818c39b423882a25e03d21622
